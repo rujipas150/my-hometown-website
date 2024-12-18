@@ -5,5 +5,12 @@ body {
     padding: 0;
 }
 h1 {
-    color: #333;
+    color: #e23131;
+}
+.logo{
+    display:flex;
+    justify-content: center;
+}
+.logo img{
+    width: 1000px;
 }
